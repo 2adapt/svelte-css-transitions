@@ -1,4 +1,4 @@
-import { getDuration, showEl, hideEl, createStagesObj } from './utils.mjs';
+import { getDuration, showEl, hideEl, createStagesObj } from './utils.js';
 
 // function enter(el, stages) {
 

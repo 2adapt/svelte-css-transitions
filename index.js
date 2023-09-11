@@ -1,6 +1,6 @@
-import { showEl, hideEl, createStagesObj } from './utils.mjs';
-// import { enter, exit } from './execute-stages.mjs';
-import { enter2, exit2 } from './execute-stages.mjs';
+import { showEl, hideEl, createStagesObj } from './utils.js';
+// import { enter, exit } from './execute-stages.js';
+import { enter2, exit2 } from './execute-stages.js';
 
 // TODO: check if map exists in window; allow  a new data attribute to specify options (use Map or no, to allow resersible transitions)
 // TODO: clear the el from map after the transitions finishes (use destroy)
